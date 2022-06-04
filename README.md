@@ -1,4 +1,4 @@
-## Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hello there! <img height="24" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif">
 
 I'm Android Tech Enthusiast. I love to learn about technology, especially Android Tech. I love to share knowledge each other with discussion or write on Medium. Love read book, playing game, discuss, sport.
 I'm currently working on [Kumparan](https://kumparan.com/).
