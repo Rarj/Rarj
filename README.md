@@ -1,15 +1,10 @@
-## Hello there! <img height="24" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif">
+## Hello, Rio here! <img height="24" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif">
 
-I'm Android Tech Enthusiast. I love to learn about technology, especially Android Tech. I love to share knowledge each other with discussion or write on Medium. Love read book, playing game, discuss, sport.
-I'm currently working on [Kumparan](https://kumparan.com/).
+I love to learn about technology 💻, especially Android Tech 🤖. 
 
-## Tools and Technologies
+Read a book 📖, playing game 🎮 and sometimes skateboarding 🛹
 
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
+I'm an Enjinir at [Kumparan](https://kumparan.com/)!
 
 #### Follow me
 [![LinkedIn ri0arjuna](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=flat)](https://linkedin.com/in/ri0arjuna)
