@@ -15,3 +15,5 @@ I'm currently working on [Kumparan](https://kumparan.com/).
 [![LinkedIn ri0arjuna](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=flat)](https://linkedin.com/in/ri0arjuna)
 [![Medium ri0arjuna](https://img.shields.io/badge/-Medium-000000?logo=Medium&logoColor=white&style=flat)](https://medium.com/@ri0arjuna)
 [![Github Rarj](https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=white&style=flat)](https://github.com/Rarj)
+
+[![@rarj's Holopin board](https://holopin.io/api/user/board?user=rarj)](https://holopin.io/@rarj)
