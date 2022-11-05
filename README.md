@@ -11,4 +11,4 @@ I'm an Enjinir at [Kumparan](https://kumparan.com/)!
 [![Medium ri0arjuna](https://img.shields.io/badge/-Medium-000000?logo=Medium&logoColor=white&style=flat)](https://medium.com/@ri0arjuna)
 [![Github Rarj](https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=white&style=flat)](https://github.com/Rarj)
 
-[![@rarj's Holopin board](https://holopin.io/api/user/board?user=rarj)](https://holopin.io/@rarj)
+[![@rarj5's Holopin board](https://holopin.me/rarj5)](https://holopin.io/@rarj5)
